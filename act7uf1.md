@@ -51,9 +51,9 @@ Amb la informació de programar tasques i la del article anterior fes:
 ![image](https://github.com/user-attachments/assets/f1559038-e3f3-43a5-8ae9-0df818355a1a)
 6. Seleccionar el lloc ón es el arxiu de l'etapa 1.
 ![image](https://github.com/user-attachments/assets/6b75550f-2eb1-4146-9156-2bab9a1f93cc)
-7. Finalitzar.
+7. Finalitzar. <br>
 ![image](https://github.com/user-attachments/assets/9d99049b-2beb-42b4-bc14-ab5d262fa73c)
-8. Profitar.
+8. Profitar. <br>
 ![image](https://github.com/user-attachments/assets/e0ca4593-27ce-445c-ab5a-2ac21e03f5eb)
 
 * Important: Si tens un portàtil endollar-lo o desactivar l'opció "Iniciar la tasca solament si el equip esta connectat al corrent alernatiu" en les condiciones de la tasca.
@@ -63,6 +63,22 @@ Amb la informació de programar tasques i la del article anterior fes:
 - Fes que quan un usuari iniciï sessió s'obri el navegador amb la web de l'institut.
 - Comproba que funciona.
 - Mostra tot el procés i el resultat.
+1. Obrir el programador de tasques i seleccionar "crear tasca bàsica".
+![Captura desde 2024-10-10 13-40-24](https://github.com/user-attachments/assets/0bda289b-0dfd-4b86-87a1-fe7bf9081d86)
+2. Elegir un nom i descripció per la tasca.
+![image](https://github.com/user-attachments/assets/0243cc2f-8152-498d-a5a4-570e06ac5253)
+3. Seleccionar a l'iniciar sessió.
+![image](https://github.com/user-attachments/assets/dbc4594b-e9b7-4270-91e4-c51047007440)
+4. Iniciar un programa (fer com si les opcions desusadas no existeixen).
+![image](https://github.com/user-attachments/assets/f1559038-e3f3-43a5-8ae9-0df818355a1a)
+5. A programa posar el navegador web i als arguments el enllaç del lloc web.
+![image](https://github.com/user-attachments/assets/88e92585-26e3-4300-b0ae-2570b4a1004a)
+6. Finalitzar.
+![image](https://github.com/user-attachments/assets/2746990c-289a-4af8-9189-53290620e053)
+7. Profitar.
+![image](https://github.com/user-attachments/assets/101c29c1-161a-4fa3-8137-18c4ef78f80d)
+
+* Important: Si tens un portàtil endollar-lo o desactivar l'opció "Iniciar la tasca solament si el equip esta connectat al corrent alernatiu" en les condiciones de la tasca.
 
 ### Activitat 4.
 
