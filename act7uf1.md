@@ -53,7 +53,7 @@ Amb la informació de programar tasques i la del article anterior fes:
 ![image](https://github.com/user-attachments/assets/6b75550f-2eb1-4146-9156-2bab9a1f93cc)
 7. Finalitzar.
 ![image](https://github.com/user-attachments/assets/9d99049b-2beb-42b4-bc14-ab5d262fa73c)
-8. Profitar. 
+8. Profitar.
 ![image](https://github.com/user-attachments/assets/e0ca4593-27ce-445c-ab5a-2ac21e03f5eb)
 
 * Important: Si tens un portàtil endollar-lo o desactivar l'opció "Iniciar la tasca solament si el equip esta connectat al corrent alernatiu" en les condiciones de la tasca.
