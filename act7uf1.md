@@ -94,13 +94,12 @@ Amb la informació de programar tasques i la del article anterior fes:
 ![image](https://github.com/user-attachments/assets/e2a177e3-785d-4366-b0e9-5fc0ed8a2a4a)
 4. Iniciar un programa (fer com si les opcions desusadas no existeixen). <br>
 ![image](https://github.com/user-attachments/assets/f1559038-e3f3-43a5-8ae9-0df818355a1a)
-5. Seleccionar l'applicació que vols que s'obri.
+5. Seleccionar l'applicació que vols que s'obri. <br>
 ![image](https://github.com/user-attachments/assets/5fc16b93-e0e8-47db-82aa-ae9c459b4dee)
-6. Finalitzar.
+6. Finalitzar. <br>
 ![image](https://github.com/user-attachments/assets/93597285-04cb-467c-b5eb-e1b3e709b691)
-7. Profitar
+7. Profitar. <br>
 ![image](https://github.com/user-attachments/assets/b52210aa-542d-4881-a7fc-66e33991e777)
-
 
 * Important: Si tens un portàtil endollar-lo o desactivar l'opció "Iniciar la tasca solament si el equip esta connectat al corrent alernatiu" en les condiciones de la tasca.
 
@@ -110,5 +109,24 @@ Amb la informació de programar tasques i la del article anterior fes:
 - Programa que la paperera de reciclatge es buidi a una hora determinada.
 - Comproba que funciona.
 - Mostra tot el procés i el resultat.
+1. Obrir el programador de tasques i seleccionar "crear tasca bàsica". <br>
+![Captura desde 2024-10-10 13-40-24](https://github.com/user-attachments/assets/0bda289b-0dfd-4b86-87a1-fe7bf9081d86)
+2. Elegir un nom i descripció per la tasca. <br>
+![image](https://github.com/user-attachments/assets/5d053bbc-28bb-4fbf-9ea0-7ea7b8e422c0)
+3. Seleccionar diariament i la hora. <br>
+![image](https://github.com/user-attachments/assets/6b23768f-41f7-49a2-8f7e-4b9664503c5c)
+![image](https://github.com/user-attachments/assets/4e1cfa18-4e2e-4f4d-9437-a49bedd9a59a)
+4. Iniciar un programa (fer com si les opcions desusadas no existeixen). <br>
+![image](https://github.com/user-attachments/assets/f1559038-e3f3-43a5-8ae9-0df818355a1a)
+5. Seleccionar PowerShell.exe i els arguments seguents: -NoProfile -Command "Clear-RecycleBin -Force . <br>
+![image](https://github.com/user-attachments/assets/8e3e0b15-dcce-4787-a7f0-0bc6e9c6b735)
+7. Finalitzar. <br>
+![image](https://github.com/user-attachments/assets/9fb2b17e-02d5-45d5-bfc5-3dff068df1bc)
+8. Profitar. <br>
+(antes) <br>
+![image](https://github.com/user-attachments/assets/d0175544-debf-4069-947f-37f6766700ff)
+(desprès) <br>
+![image](https://github.com/user-attachments/assets/911b9ebd-65ae-4117-aa6f-a389333a431b)
+
 
 * Important: Si tens un portàtil endollar-lo o desactivar l'opció "Iniciar la tasca solament si el equip esta connectat al corrent alernatiu" en les condiciones de la tasca.
