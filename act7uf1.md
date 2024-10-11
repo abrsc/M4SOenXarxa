@@ -123,8 +123,8 @@ Amb la informació de programar tasques i la del article anterior fes:
 7. Finalitzar. <br>
 ![image](https://github.com/user-attachments/assets/9fb2b17e-02d5-45d5-bfc5-3dff068df1bc)
 8. Profitar. <br>
-(antes) <br>
-![image](https://github.com/user-attachments/assets/d0175544-debf-4069-947f-37f6766700ff)
+(abans) <br>
+![image](https://github.com/user-attachments/assets/d0175544-debf-4069-947f-37f6766700ff) <br>
 (desprès) <br>
 ![image](https://github.com/user-attachments/assets/911b9ebd-65ae-4117-aa6f-a389333a431b)
 
