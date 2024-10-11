@@ -28,7 +28,7 @@ Amb la informació de programar tasques i la del article anterior fes:
 ![image](https://github.com/user-attachments/assets/be8fe17a-8764-470a-ad95-50fcc8e22def)
 7. Finalitzar. <br>
 ![image](https://github.com/user-attachments/assets/b55373de-6180-4107-acac-39175afa4a94)
-8. Esperar la hora i profitar. <br>
+8. Esperar la hora i Gaudeix. <br>
 ![image](https://github.com/user-attachments/assets/ea341d4b-9a57-4d63-bc8a-781d25cda3be)
 ![image](https://github.com/user-attachments/assets/1b337b8d-6efb-410d-a231-51344f05fc34)
 
@@ -53,7 +53,7 @@ Amb la informació de programar tasques i la del article anterior fes:
 ![image](https://github.com/user-attachments/assets/6b75550f-2eb1-4146-9156-2bab9a1f93cc)
 7. Finalitzar. <br>
 ![image](https://github.com/user-attachments/assets/9d99049b-2beb-42b4-bc14-ab5d262fa73c)
-8. Profitar. <br>
+8. Gaudeix. <br>
 ![image](https://github.com/user-attachments/assets/e0ca4593-27ce-445c-ab5a-2ac21e03f5eb)
 
 * Important: Si tens un portàtil endollar-lo o desactivar l'opció "Iniciar la tasca solament si el equip esta connectat al corrent alernatiu" en les condiciones de la tasca.
@@ -75,7 +75,7 @@ Amb la informació de programar tasques i la del article anterior fes:
 ![image](https://github.com/user-attachments/assets/88e92585-26e3-4300-b0ae-2570b4a1004a)
 6. Finalitzar. <br>
 ![image](https://github.com/user-attachments/assets/2746990c-289a-4af8-9189-53290620e053)
-7. Profitar. <br>
+7. Gaudeix. <br>
 ![image](https://github.com/user-attachments/assets/101c29c1-161a-4fa3-8137-18c4ef78f80d)
 
 * Important: Si tens un portàtil endollar-lo o desactivar l'opció "Iniciar la tasca solament si el equip esta connectat al corrent alernatiu" en les condiciones de la tasca.
@@ -98,7 +98,7 @@ Amb la informació de programar tasques i la del article anterior fes:
 ![image](https://github.com/user-attachments/assets/5fc16b93-e0e8-47db-82aa-ae9c459b4dee)
 6. Finalitzar. <br>
 ![image](https://github.com/user-attachments/assets/93597285-04cb-467c-b5eb-e1b3e709b691)
-7. Profitar. <br>
+7. Gaudeix. <br>
 ![image](https://github.com/user-attachments/assets/b52210aa-542d-4881-a7fc-66e33991e777)
 
 * Important: Si tens un portàtil endollar-lo o desactivar l'opció "Iniciar la tasca solament si el equip esta connectat al corrent alernatiu" en les condiciones de la tasca.
@@ -122,7 +122,7 @@ Amb la informació de programar tasques i la del article anterior fes:
 ![image](https://github.com/user-attachments/assets/8e3e0b15-dcce-4787-a7f0-0bc6e9c6b735)
 7. Finalitzar. <br>
 ![image](https://github.com/user-attachments/assets/9fb2b17e-02d5-45d5-bfc5-3dff068df1bc)
-8. Profitar. <br>
+8. Gaudeix. <br>
 (abans) <br>
 ![image](https://github.com/user-attachments/assets/d0175544-debf-4069-947f-37f6766700ff) <br>
 (desprès) <br>
