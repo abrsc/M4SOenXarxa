@@ -85,6 +85,24 @@ Amb la informació de programar tasques i la del article anterior fes:
 - Fes que una aplicació s'executi a una hora determinada.
 - Comproba que funciona.
 - Mostra tot el procés i el resultat.
+1. Obrir el programador de tasques i seleccionar "crear tasca bàsica". <br>
+![Captura desde 2024-10-10 13-40-24](https://github.com/user-attachments/assets/0bda289b-0dfd-4b86-87a1-fe7bf9081d86)
+2. Elegir un nom i descripció per la tasca. <br>
+![image](https://github.com/user-attachments/assets/f98f272c-ef64-4acd-854c-dd9b046290d8)
+3. Seleccionar diariament i la hora. <br>
+![image](https://github.com/user-attachments/assets/6b23768f-41f7-49a2-8f7e-4b9664503c5c)
+![image](https://github.com/user-attachments/assets/e2a177e3-785d-4366-b0e9-5fc0ed8a2a4a)
+4. Iniciar un programa (fer com si les opcions desusadas no existeixen). <br>
+![image](https://github.com/user-attachments/assets/f1559038-e3f3-43a5-8ae9-0df818355a1a)
+5. Seleccionar l'applicació que vols que s'obri.
+![image](https://github.com/user-attachments/assets/5fc16b93-e0e8-47db-82aa-ae9c459b4dee)
+6. Finalitzar.
+![image](https://github.com/user-attachments/assets/93597285-04cb-467c-b5eb-e1b3e709b691)
+7. Profitar
+![image](https://github.com/user-attachments/assets/b52210aa-542d-4881-a7fc-66e33991e777)
+
+
+* Important: Si tens un portàtil endollar-lo o desactivar l'opció "Iniciar la tasca solament si el equip esta connectat al corrent alernatiu" en les condiciones de la tasca.
 
 ### Activitat 5.
 
@@ -92,3 +110,5 @@ Amb la informació de programar tasques i la del article anterior fes:
 - Programa que la paperera de reciclatge es buidi a una hora determinada.
 - Comproba que funciona.
 - Mostra tot el procés i el resultat.
+
+* Important: Si tens un portàtil endollar-lo o desactivar l'opció "Iniciar la tasca solament si el equip esta connectat al corrent alernatiu" en les condiciones de la tasca.
